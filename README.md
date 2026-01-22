@@ -83,7 +83,7 @@ random-forest-resiko-stress-mahasiswa/
 
 ### 1. Clone Repository
 ```bash
-git clone <repository-url>
+git clone <https://github.com/naiasyafina/random-forest-resiko-stress-mahasiswa.git>
 cd random-forest-resiko-stress-mahasiswa
 ```
 
